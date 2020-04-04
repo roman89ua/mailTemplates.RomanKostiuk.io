@@ -1,0 +1,91 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="800px">
+    <mj-wrapper background-color="#cecece" padding="0 0 0 0">
+      <mj-raw>
+        <!-- Header with text -->
+      </mj-raw>
+      <mj-section padding="0 0 0 0">
+        <mj-column padding="0 0 0 0" width="700px">
+          <mj-text font-family="Verdana" padding="10px 0" font-size='10px' line-height="10px" color="#888888" font-size='10px' line-height="10px" align="center">
+            <a href="#" style="color:#888888">Click here</a> to manage your Corel email communications. <br> Pictures in this email not displaying?<a href="#" style="color:#888888;"> View this email as a webpage</a>. <br> Reminder: add news@communications.corel.com to your Known Senders/Contact list. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Main picture -->
+      </mj-raw>
+      <mj-section padding="0 0">
+        <mj-column padding="0 0">
+          <mj-image padding="0 0" width="700px" src="https://i.ibb.co/2S9n2tw/US.png" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0">
+        <mj-column padding="0 0" width="700px" background-color="#f7f7f7">
+          <mj-text align="left" font-family="Arial" font-size="16px" line-height="23px" padding="30px 35px">
+            <h2 font-size="30px" line-height="45.83px"> Align your creative vision with new features </h2>
+            <p font-size="16px" line-height="23px"> Enjoy an ideal balance of all the powerful applications, tools and features you need for your continued design success. Our latest version delivers creative and innovative new tools like the Symmetry drawing mode, the ability to adjust photos interactively, the perspective effect, and the capability to publish to WordPress. <br>See all the new features in <a href="#">CorelDRAW&reg Graphics Suite 2018</a>.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0">
+        <mj-column padding="17px 15px" width="700px" background-color="#61a706">
+          <mj-text font-family="Arial" color="#FFFFFF" font-size="16px" line-height="21px" font-weight="600"> Hurry! This limited-time offer ends 18 June 2018 at midnight EST. <a style="color: #ffffff;" href="#">Start Shopping</a>. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0">
+        <mj-column padding="0 0" width="233px">
+          <mj-button href="#" border-radius="0" padding="0" font-family="Arial" width="100%" height="42px" background-color="#000000" color="#28acff"> PURCHASE BY PHONE </mj-button>
+          <!--<mj-text align="center" font-size="14px" padding="19px 0" font-family="Arial">
+            <a href="#" style="color:#28acff">PURCHASE BY PHONE</a>
+          </mj-text>-->
+        </mj-column>
+        <mj-column padding="0 0" width="234px">
+          <mj-button href="#" border-radius="0" padding="0" font-family="Arial" width="100%" height="42px" background-color="#000000" color="#28acff"> SYSTEM REQUIREMENTS </mj-button>
+          <!--<mj-text align="center" font-size="14px" padding="19px 0" font-family="Arial">
+            <a href="#" style="color:#28acff">SYSTEM REQUIREMENTS</a>
+          </mj-text>-->
+        </mj-column>
+        <mj-column padding="0 0" width="234px">
+          <mj-button href="#" border-radius="0" padding="0" font-family="Arial" width="100%" height="42px" background-color="#000000" color="#28acff"> MY ACCOUNT </mj-button>
+          <!--<mj-text align="center" font-size="14px" padding="19px 0" font-family="Arial">
+            <a href="#" style="color:#28acff">MY ACCOUNT</a>
+          </mj-text>-->
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0">
+        <mj-column width="140px" background-color="#FFFFFF">
+          <mj-image width="104px" height="60px" src="https://i.ibb.co/kJscyyH/06-12-hzl-cdgs-sale-700-en-17.jpg" alt="McAfee SECURE" />
+        </mj-column>
+        <mj-column width="140px" background-color="#FFFFFF">
+          <mj-image width="37px" height="60px" src="https://i.ibb.co/7KLDdS8/06-12-hzl-cdgs-sale-700-en-19.jpg" alt="BBB" />
+        </mj-column>
+        <mj-column width="140px" background-color="#FFFFFF">
+          <mj-image width="60px" height="60px" src="https://i.ibb.co/y06J1bf/06-12-hzl-cdgs-sale-700-en-21.jpg" alt="30 DAY" />
+        </mj-column>
+        <mj-column width="140px" background-color="#FFFFFF">
+          <mj-image width="60px" height="60px" src="https://i.ibb.co/QkgvT5L/06-12-hzl-cdgs-sale-700-en-23.jpg" alt="Corel advantage" />
+        </mj-column>
+        <mj-column width="140px" background-color="#FFFFFF">
+          <mj-text font-size="14px" font-family="Arial" font-weight="700">Follow us:</mj-text>
+          <mj-social>
+            <mj-social-element name="facebook" href="https://www.facebook.com/" />
+            <mj-social-element name="twitter" href="https://twitter.com/" />
+            <mj-social-element name="youtube" href="https://www.youtube.com/" />
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="700px" background-color="#cecece">
+          <mj-text padding="15px 60px" font-family="Verdana" font-size="10px">
+            <h4 style="color:#000000">*Excludes CorelDRAW Subscription</h4>
+            <p style="color:#888888"> Copyright&copy 2017 Corel Corporation. All Rights Reserved.<br></br> You are receiving this email because you requested to receive information regarding Corel products and special offers or you subscribe to a Corel e-newsletter. If you wish to unsubscribe from this email or otherwise change your Corel email communications settings, pleasea <a href="#" style="color:#888888">click here</a>.<br></br> At Corel, we respect your privacy. For more information, please view our Privacy Policy, or contact us at: Customer Service, Corel Corporation, 1600 Carling Avenue, Ottawa, Ontario, Canada, K1Z 8R7, Attention: Privacy.<br></br> This message was sent by Corel using Responsys Interact™. iew the Responsys permission marketing policy. </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
